@@ -1,0 +1,24 @@
+{
+  "name": "elements",
+  "authors": [
+    "The Polymer Authors"
+  ],
+  "keywords": [
+    "element-collection"
+  ],
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "dependencies": {
+    "app-elements": "PolymerElements/app-elements",
+    "data-elements": "PolymerElements/data-elements",
+    "gold-elements": "PolymerElements/gold-elements",
+    "GoogleWebComponents": "GoogleWebComponents/google-web-components",
+    "iron-elements": "PolymerElements/iron-elements",
+    "layout-elements": "PolymerElements/layout-elements",
+    "molecules": "PolymerElements/molecules",
+    "paper-elements": "PolymerElements/paper-elements",
+    "platinum-elements": "PolymerElements/platinum-elements"
+  },
+  "resolutions": {
+    "firebase": "^3.0"
+  }
+}
